@@ -1,4 +1,4 @@
-# Retail Customer Intelligence Dashboard
+# Retail Growth and Customer Analytics Dashboard
 
 ## Project Overview
 
