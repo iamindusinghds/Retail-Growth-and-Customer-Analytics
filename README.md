@@ -85,3 +85,14 @@ This project demonstrates practical skills in:
 * Customer Segmentation
 * Cohort Retention Analysis
 * Power BI Dashboard Development
+
+  ## Tools & Technologies
+
+- Power BI
+- Power Query
+- DAX
+- Data Visualization
+- Customer Segmentation
+- CLV Analysis
+- Cohort Retention Analysis
+- Business Intelligence
