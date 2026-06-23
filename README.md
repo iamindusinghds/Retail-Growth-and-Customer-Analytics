@@ -160,5 +160,4 @@ A 5-page interactive Power BI dashboard built with DAX measures, Power Query tra
 ## 👩‍💻 Author
 
 **Indu Singh**
-Data Analyst | Bioinformatics Researcher
 [LinkedIn](https://www.linkedin.com/in/indu-singh-458929365) · [GitHub](https://github.com/iamindusinghds)
